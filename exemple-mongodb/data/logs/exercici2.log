@@ -1,0 +1,23 @@
+2025-03-27T16:00:21.728Z [INFO]: Conectado a MongoDB
+2025-03-27T16:00:21.732Z [INFO]: Conectado a MongoDB
+2025-03-27T16:00:21.750Z [INFO]: PDF generat correctament: C:\Users\extre\Documents\GitHub\M06-UF03-Punt-Partida-NodeJS\exemple-mongodb\src\data\out\informe2.pdf
+2025-03-27T16:00:21.750Z [INFO]: Número de posts amb títols que coincideixen amb les paraules: 0
+2025-03-27T16:00:21.754Z [INFO]: Conexió a MongoDB tancada
+2025-03-27T16:00:21.889Z [INFO]: Mitjana de ViewCount de tots els posts: 11444.26
+2025-03-27T16:00:21.896Z [INFO]: PDF generat correctament: C:\Users\extre\Documents\GitHub\M06-UF03-Punt-Partida-NodeJS\exemple-mongodb\src\data\out\informe1.pdf
+2025-03-27T16:00:21.896Z [INFO]: Número de preguntes amb ViewCount superior a la mitjana: 1843
+2025-03-27T16:00:21.898Z [INFO]: Conexió a MongoDB tancada
+2025-03-27T16:03:42.548Z [INFO]: Conectado a MongoDB
+2025-03-27T16:03:42.553Z [INFO]: Conectado a MongoDB
+2025-03-27T16:03:42.570Z [INFO]: PDF generat correctament: C:\Users\extre\Documents\GitHub\M06-UF03-Punt-Partida-NodeJS\exemple-mongodb\data\out\informe2.pdf
+2025-03-27T16:03:42.571Z [INFO]: Número de posts amb títols que coincideixen amb les paraules: 0
+2025-03-27T16:03:42.575Z [INFO]: Conexió a MongoDB tancada
+2025-03-27T16:04:19.816Z [INFO]: Conectado a MongoDB
+2025-03-27T16:04:19.821Z [INFO]: Conectado a MongoDB
+2025-03-27T16:04:19.838Z [INFO]: PDF generat correctament: C:\Users\extre\Documents\GitHub\M06-UF03-Punt-Partida-NodeJS\exemple-mongodb\src\data\out\informe2.pdf
+2025-03-27T16:04:19.839Z [INFO]: Número de posts amb títols que coincideixen amb les paraules: 0
+2025-03-27T16:04:19.843Z [INFO]: Conexió a MongoDB tancada
+2025-03-27T16:04:19.980Z [INFO]: Mitjana de ViewCount de tots els posts: 11444.26
+2025-03-27T16:04:19.987Z [INFO]: PDF generat correctament: C:\Users\extre\Documents\GitHub\M06-UF03-Punt-Partida-NodeJS\exemple-mongodb\src\data\out\informe1.pdf
+2025-03-27T16:04:19.987Z [INFO]: Número de preguntes amb ViewCount superior a la mitjana: 1843
+2025-03-27T16:04:19.990Z [INFO]: Conexió a MongoDB tancada
